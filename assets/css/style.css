@@ -65,7 +65,8 @@ h3 {
   /* Typography */
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  /* color: #4aaaa5; */
+  color: steelblue;
 }
 
 h1 {
@@ -193,7 +194,8 @@ footer {
 
   /* Visual */
   background: #666;
-  border-top: 8px solid #4aaaa5;
+  /* border-top: 8px solid #4aaaa5; */
+  border-top: 8px solid steelblue;
 }
 
 /* sidebar */
@@ -318,7 +320,8 @@ main {
 
   color: #fff;
   text-align: center;
-  background: #4aaaa5;
+  /* background: #4aaaa5; */
+  background: steelblue;
 
   /* Visual */
   border-bottom: 0;
@@ -384,7 +387,8 @@ input[type=submit] {
 
   /* Misc */
   cursor: pointer;
-  background: #4aaaa5;
+  /* background: #4aaaa5; */
+  background: steelblue;
 
   /* Visual */
   border: 0 none;
